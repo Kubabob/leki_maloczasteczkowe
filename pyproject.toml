@@ -12,4 +12,5 @@ dependencies = [
     "polars>=1.23.0",
     "rdkit>=2024.9.5",
     "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
 ]
